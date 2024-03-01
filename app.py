@@ -1,3 +1,5 @@
+//Description: if you run this code, it prints out a red flower with black background
+
 import turtle
 t = turtle.Turtle()
 s = turtle.Screen()
